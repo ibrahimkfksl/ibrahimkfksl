@@ -33,14 +33,14 @@ To Summarize Briefly ::
 <p align="center">
 <a>
 <img 
-  alt="MihrimatriX's Activity Graph" 
+  alt="ibrahim's Activity Graph" 
   src="https://activity-graph.herokuapp.com/graph?username=ibrahimkfksl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"            
   width="660px" />
 </br>
 <p align="center">
 <a>
 <img 
-  alt="MihrimatriX's Streak" 
+  alt="ibrahim's Streak" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkfksl&theme=monokai-metallian&hide_border=true" 
   width="660px" />
 </a>
