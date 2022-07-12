@@ -8,9 +8,8 @@
 </h2>
 
 To Summarize Briefly ::
-- 🔭 I’m currently working in Arcelik.
-- 🌱 I’m currently learning spring boot, react.
-- 💬 Talk to me about Java, React, JavaScript, Computer Science
+- 🔭 I’m currently working in Ing Turkey.
+- 💬 Talk to me about Java, JavaScript, Computer Science
 </br></br></br>
 
 <p align="center">
