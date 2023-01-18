@@ -8,7 +8,6 @@
 </h2>
 
 To Summarize Briefly ::
-- 🔭 I’m currently working in Ing Turkey.
 - 💬 Talk to me about Java, JavaScript, Computer Science
 </br></br></br>
 
